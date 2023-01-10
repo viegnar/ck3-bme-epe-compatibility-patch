@@ -1,0 +1,74 @@
+﻿kurdish = {
+	color = { 0.3 0.35 0.1 }
+	
+	ethos = ethos_communal
+	heritage = heritage_iranian
+	language = language_iranian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_swords_for_hire
+		tradition_mountain_homes
+		tradition_eye_for_an_eye
+		# tradition_futuwaa
+		tradition_staunch_traditionalists
+		tradition_isolationist
+	}
+	
+	name_list = name_list_kurdish
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_kurdish_1
+		2 = iranian_kurdish_2
+		2 = iranian_kurdish_3
+		2 = iranian_kurdish_4
+		2 = iranian_kurdish_5
+		2 = iranian_kurdish_6
+		2 = iranian_kurdish_7
+		2 = iranian_kurdish_8
+		2 = iranian_kurdish_9
+		2 = iranian_kurdish_10
+		2 = iranian_kurdish_11
+		2 = iranian_kurdish_12
+		2 = iranian_kurdish_13
+		2 = iranian_kurdish_14
+		2 = iranian_kurdish_15
+		2 = iranian_kurdish_16
+		2 = iranian_kurdish_17
+		2 = iranian_kurdish_18
+		2 = iranian_kurdish_19
+		2 = iranian_kurdish_20
+		2 = iranian_kurdish_21
+		2 = iranian_kurdish_22
+		2 = iranian_kurdish_23
+		2 = iranian_kurdish_24
+		2 = iranian_kurdish_25
+		2 = iranian_kurdish_26
+		2 = iranian_kurdish_27
+		2 = iranian_kurdish_28
+		2 = iranian_kurdish_29
+		2 = iranian_kurdish_30
+		2 = iranian_kurdish_31
+		2 = iranian_kurdish_32
+		2 = iranian_kurdish_33
+		2 = iranian_kurdish_34
+		2 = iranian_kurdish_35
+		2 = iranian_kurdish_36
+		2 = iranian_kurdish_37
+		2 = iranian_kurdish_38
+		2 = iranian_kurdish_39
+		2 = iranian_kurdish_40
+		2 = iranian_persian_68
+		2 = iranian_persian_69
+		2 = iranian_persian_70
+		2 = iranian_persian_71
+		2 = iranian_persian_72
+		2 = iranian_persian_73
+		2 = iranian_persian_74
+		2 = iranian_persian_75
+	}
+}
