@@ -18,7 +18,7 @@
 	
 	coa_gfx = { iranian_group_coa_gfx }
 	building_gfx = { mena_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx }
+	clothing_gfx = { epe_iranian_clothing_gfx }
 	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
 	
 	ethnicities = {
@@ -62,13 +62,5 @@
 		2 = iranian_kurdish_38
 		2 = iranian_kurdish_39
 		2 = iranian_kurdish_40
-		2 = iranian_persian_68
-		2 = iranian_persian_69
-		2 = iranian_persian_70
-		2 = iranian_persian_71
-		2 = iranian_persian_72
-		2 = iranian_persian_73
-		2 = iranian_persian_74
-		2 = iranian_persian_75
 	}
 }
